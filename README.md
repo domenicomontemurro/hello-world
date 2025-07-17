@@ -1,2 +1,3 @@
 # hello-world
-Learning GitHub
+Learning GitHub.
+"Am I missing something?" A question always in my mind.
